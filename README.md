@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnasirayub
-- 👀 I’m interested in application development
+- 👀 I’m interested in application development & deployment & devops practices
 - 🌱 I’m currently learning ionic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
